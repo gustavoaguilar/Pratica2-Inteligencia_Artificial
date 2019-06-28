@@ -1,0 +1,1 @@
+Extrair todos os .zip nesta pasta (foram compactados pela limitação de tamanho do github)
